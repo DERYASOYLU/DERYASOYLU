@@ -1,4 +1,6 @@
 ### ✨ Hello World 👋✨
+<img src="C:\Users\derya\OneDrive\Desktop\DERYA RESİM.jpg">
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roseee25&label=Profile%20views&color=0e75b6&style=flat" alt="roseee25" /> </p>
