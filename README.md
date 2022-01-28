@@ -1,5 +1,5 @@
 ### ✨ Hello World 👋✨
-<img src="C:\Users\derya\OneDrive\Desktop\DERYA RESİM.jpg">
+<img src="https://github.com/DERYASOYLU/deryasoylu/blob/main/DERYA%20RES%C4%B0M.jpg?raw=true">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
